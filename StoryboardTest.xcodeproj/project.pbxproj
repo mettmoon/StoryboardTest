@@ -13,6 +13,7 @@
 		BC7D7DD61B9F26B200B95A6E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC7D7DD51B9F26B200B95A6E /* Images.xcassets */; };
 		BC7D7DD91B9F26B200B95A6E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC7D7DD71B9F26B200B95A6E /* LaunchScreen.xib */; };
 		BC7D7DE51B9F26B200B95A6E /* StoryboardTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7D7DE41B9F26B200B95A6E /* StoryboardTestTests.swift */; };
+		BC7D7DEF1B9F26F400B95A6E /* Storyboard2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC7D7DEE1B9F26F400B95A6E /* Storyboard2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		BC7D7DDE1B9F26B200B95A6E /* StoryboardTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryboardTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC7D7DE31B9F26B200B95A6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC7D7DE41B9F26B200B95A6E /* StoryboardTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryboardTestTests.swift; sourceTree = "<group>"; };
+		BC7D7DEE1B9F26F400B95A6E /* Storyboard2.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				BC7D7DCE1B9F26B200B95A6E /* AppDelegate.swift */,
 				BC7D7DD01B9F26B200B95A6E /* ViewController.swift */,
 				BC7D7DD21B9F26B200B95A6E /* Main.storyboard */,
+				BC7D7DEE1B9F26F400B95A6E /* Storyboard2.storyboard */,
 				BC7D7DD51B9F26B200B95A6E /* Images.xcassets */,
 				BC7D7DD71B9F26B200B95A6E /* LaunchScreen.xib */,
 				BC7D7DCC1B9F26B200B95A6E /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC7D7DEF1B9F26F400B95A6E /* Storyboard2.storyboard in Resources */,
 				BC7D7DD41B9F26B200B95A6E /* Main.storyboard in Resources */,
 				BC7D7DD91B9F26B200B95A6E /* LaunchScreen.xib in Resources */,
 				BC7D7DD61B9F26B200B95A6E /* Images.xcassets in Resources */,
